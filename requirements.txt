@@ -1,5 +1,6 @@
 numpy
 scikit-learn
 matplotlib
-torch
 seaborn
+torch
+torchvision
