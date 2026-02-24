@@ -3,8 +3,8 @@
 Softmax classifier experiments and notes.
 
 Contents
-- `softmax_mnist.ipynb` — notebook implementing a softmax classifier on MNIST with NumPy.
-- `softmax_usps.ipynb` — notebook implementing a softmax classifier on USPS with NumPy.
+- `softmax_mnist.ipynb` — notebook implementing a softmax classifier on MNIST.
+- `softmax_usps.ipynb` — notebook implementing a softmax classifier on USPS.
 - `SOFTMAX research.docx` - text file with the descripton of the project.
 
 Quick start
