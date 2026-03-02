@@ -7,7 +7,9 @@ Contents
 - `softmax_usps.ipynb` — notebook implementing a softmax classifier on USPS.
 - `SOFTMAX research.docx` - text file with the descripton of the project.
 - `CDW_CE_comparison.ipynb` - notebook comparing CE and CDW-CE losses on MNIST.
-- `CDW CE analisys.docx` - text file with the analisys of the comparison.
+- `CDW CE analisys.docx` - text file with the analisys of the CDW-CE loss.
+- `softrec_mnist.ipynb` - notebook comparing softmax and softrec on MNIST.
+- `SoftRec analisys.docx` - text file with the analisys of the SoftRec method.
 
 Quick start
 1. Create and activate a Python environment (recommended):
